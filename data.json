@@ -1,0 +1,42 @@
+{
+  "clientes": [
+    {
+      "id": "cli_mejd87a1s6kx7k",
+      "nome": "marcio",
+      "dataNascimento": "12092002",
+      "cpf": "18775453771",
+      "email": "marcioe@gmai.com",
+      "senha": "3305"
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": "fun_mejd5wahik5jof",
+      "username": "marcio",
+      "cpf": "18775453762",
+      "email": "marcio@gmai.com",
+      "senha": "3305218"
+    }
+  ],
+  "quartos": [
+    {
+      "id": "qua_mejd6tfblyxj9a",
+      "nome": "Luxo",
+      "descricao": "pica",
+      "qtdCamas": "2",
+      "precoPorNoite": "",
+      "qtdDisponivel": "2"
+    }
+  ],
+  "reservas": [
+    {
+      "id": "res_mejd9fa0ol0jnb",
+      "clienteId": "cli_mejd87a1s6kx7k",
+      "quartoNome": "uxo",
+      "status": "pendente",
+      "checkIn": "12",
+      "checkOut": "13",
+      "avaliacao": null
+    }
+  ]
+}
